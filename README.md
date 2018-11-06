@@ -1,9 +1,10 @@
 # CMSC5734_Network_Science
 
-Matrix calculation on graph
+## Generate graphs 
 ```
 Random graphs
 Small World 
 graphs BA graphs
 ```
+Basic matrix calculations
 Calculate betweenness centrality and local clustering coefﬁcient 
