@@ -6,5 +6,5 @@ Random graphs
 Small World 
 graphs BA graphs
 ```
-Basic matrix calculations
-Calculate betweenness centrality and local clustering coefﬁcient 
+## Basic matrix calculations
+## Calculate betweenness centrality and local clustering coefﬁcient 
